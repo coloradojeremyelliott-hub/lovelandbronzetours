@@ -1,0 +1,3 @@
+# Google AdSense publisher line — placeholder.
+# Replace with the real line once a publisher ID is obtained for this site, e.g.:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
