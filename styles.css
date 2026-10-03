@@ -393,3 +393,7 @@ footer.site-footer .disclosure {
 .photo-credit a { color: var(--ink-soft); }
 article.post .hero-image { max-width: 100%; margin: 0 0 6px; }
 article.post .photo-credit { text-align: left; max-width: none; margin: 0 0 24px; }
+
+/* Real AdSense units (slot 9550096030). Unfilled units collapse so no empty gap shows. */
+.ad-unit { margin: 2em 0; width: 100%; text-align: center; }
+ins.adsbygoogle[data-ad-status="unfilled"] { display: none !important; }
